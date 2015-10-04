@@ -112,3 +112,15 @@
 
 * People pay us to produce software that's early to market, of high quality that meets or exceeds customer expectiations. We are still learning how to figure out exactly what to build. But weve known for a while how to build it. That is what agile development has discovered and taught us.
 * Thank you.
+
+
+
+
+Bart Everson - why
+https://www.flickr.com/photos/editor/6698208975
+
+Simon Cunningham - economics
+https://www.flickr.com/photos/lendingmemo/11942712503
+
+
+

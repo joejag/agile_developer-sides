@@ -41,7 +41,7 @@
 
 
 ---
-# How to be an agile developer?
+# Practices of an agile developer
 
 ----
 # The Practice Areas

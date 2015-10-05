@@ -4,36 +4,6 @@
 #### __@joe_jag__
 
 ---
-## What is an agile developer?
-
-## *Let's ask Twitter!*
-
----
-# What is an agile developer?
-
-> Being conscious of value and responsibility. 
-> Good communication and being able to adapt and react to change. 
---@mr_urf
-
----
-# What is an agile developer?
-
-> They discuss more with other colleagues about the deliverables, on 2 fronts - Out With their own work but also internal to their own work
---@jennylally
-
----
-# What is an agile developer?
-
-> An agile dev is a dev who can touch their toes
---@PaulBullivant
-
----
-# What is an agile developer?
-
-> An agile developer considers their actions and work against the values and principles of the Agile manifesto.
---@garyfleming
-
----
 
 ![fit](images/why.jpg)
 

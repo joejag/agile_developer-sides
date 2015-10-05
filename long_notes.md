@@ -24,7 +24,7 @@ WHY
   * Economics.
   * Reduce lead time to getting work done, while increasing customer satisfaction.
   * It will make you able to react to change by increasing the points where feedback is introduced. Promoting a shared understanding 
-  * It won't make you much faster. It will help you deliver at a sustainable pace, which will be slower at the start of project. But saves leaving testing, integration and deployment to the end. Which is one of the main reasons projects fail.
+  * It won't make you much faster, but it will be sooner. It will help you deliver at a sustainable pace, which will be slower at the start of project. But saves leaving testing, integration and deployment to the end. Which is one of the main reasons projects fail.
 
 INTRODUCE BODY OF TALK http://c2.com/cgi/wiki?ExtremeProgrammingCorePractices
 * We will focus on What practices a agile developer uses.

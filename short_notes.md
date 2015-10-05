@@ -43,7 +43,7 @@
 
 # Whole team
 
-* What: Biz, Dev, Testers. Share responsibility for delivery. WarRoom.
+* What: Biz, Dev, Testers. Share responsibility for delivery. STORY: WarRoom.
 * Why: Reduces miscommuncation and speeds it up. Customer gets real feedback everyday
 
 # TDD

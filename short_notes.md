@@ -23,6 +23,8 @@
 * Practices of agile dev let you reduce time to market, while increasing customer expectations.
 * React to change by increasing feedback freq.
 * Won't be much faster, but will be sustainable if you use the practices in balance.s
+* Don;t make useless features. Don't rework. Maintain quality.
+
 
 # Practices of an agile developer
 
@@ -33,7 +35,7 @@
 
 # AREA: Fine Scaled Feedback
 
-* Find out if what you are doing is what you or others want as fast as possible.
+* Find out if you are on the right path, as soon as possible.
 * Is this what the biz wants?
 * Is this code what I want?
 
@@ -47,7 +49,7 @@
 # TDD
 
 * What: Code you wished you had. Programmer facing or Cusstomer facing. Big difference as you focus on the callers perspective.
-* Why: Desgin before build. YAGNI, minimal amount of prod code. Enables other practices as it gives you the test bedrock.
+* Why: Desgin before build. YAGNI, minimal amount of prod code. Enables other practices as it gives you the test bedrock. COURAGE
 
 # Pair Programming
 
@@ -64,7 +66,7 @@
 
 # Continuous Integration
 
-* What: Commit frequently to a mainline. Every commit is built & checked by automated tests. Informed otherwise. Don't branch or leave on local machine.
+* What: Commit frequently to a mainline. Every commit is built & checked by automated tests. Informed otherwise. 
 * Why: Simplified & faster integrations. Customer sees latest. Shippable always.
 
 # RefactorMercilessly
@@ -85,15 +87,15 @@
 * Standups part of this. Pairing and whole team.
 * Also, shared understanding of the code
 
-# SimpleDesign
-
-* What: YAGNI, Incremental, 3 times to generalize, 4 Simple rules (test, nodupes, intent, no dead code)
-* Why: Small initial investment, simple is easy to maintain, agility
-
 # Collective Code Ownership
 
 * What: Anyone can change anything. Bug, feature or refactor. 
 * Why: Used with TDD & Pair programmingshares knowledge and encourages new ideas. Trivial one head. Less risky to departures.
+
+# SimpleDesign
+
+* What: Rules: YAGNI, 3 times to generalize, 4 Simple rules (test, nodupes, intent, no dead code)
+* Why: simple is easy to maintain, agility
 
 # Coding Standard
 
@@ -116,11 +118,6 @@
 
 
 
-Bart Everson - why
-https://www.flickr.com/photos/editor/6698208975
-
-Simon Cunningham - economics
-https://www.flickr.com/photos/lendingmemo/11942712503
 
 
 
